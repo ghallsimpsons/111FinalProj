@@ -1,3 +1,6 @@
+/* Grantland Hall 2014
+ * GrantlandHall@berkeley.edu
+ */
 #include <msp430.h>
 #include <stdlib.h>
 
