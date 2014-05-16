@@ -10,6 +10,8 @@
  * P2.1|>BL   P2.4|>D
  * P2.2|>BR   P2.3|>M
  *  Built with Code Composer Studio v5
+ * Grantland Hall 2014
+ * GrantlandHall@berkeley.edu
  **************************************************************************************/
 
 #include <msp430.h>
